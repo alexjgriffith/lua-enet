@@ -2,7 +2,7 @@ package = "enet"
 version = "dev-1"
 
 source = {
-  url = "git://github.com/leafo/lua-enet.git"
+  url = "git://github.com/alexjgriffith/lua-enet.git"
 }
 
 description = {
